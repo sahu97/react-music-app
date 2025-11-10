@@ -137,3 +137,4 @@ Drag and drop the dist/ folder into Netlify Drop
 Or connect your GitHub repo and enable Continuous Deployment.
 
 ---
+
